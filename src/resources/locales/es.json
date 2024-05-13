@@ -12,6 +12,8 @@
   },
   "apiapp": {
     "documentation": "Documentación de torio",
+    "howItWorks": "cómo funciona",
+    "informations": "Muchas bibliotecas y librerías públicas están adoptando OPDS como formato estándar para mostrar su catálogo en la Web. Thorium puede proporcionar acceso a los catálogos OPDS 1 y 2. También admite varios formatos de identificación asociados a OPDS y, por lo tanto, puede proporcionar a los usuarios acceso a su biblioteca personal, es decir, los libros digitales que el usuario ha adquirido o tomado prestados, permitiéndoles descargarlos y leerlos inmediatamente.",
     "noLibraryFound": "Biblioteca no encontrada ({{- name}})"
   },
   "app": {
