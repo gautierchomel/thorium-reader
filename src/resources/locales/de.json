@@ -11,8 +11,8 @@
         "toolbar": "symbolleiste"
     },
     "apiapp": {
-        "documentation": "",
-        "howItWorks": "",
+        "documentation": "Thorium Dokumentation",
+        "howItWorks": "Wie funktioniert das?",
         "informations": "",
         "noLibraryFound": ""
     },
